@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ПКТО</string>
+
+    <string name="buttonContinue">Продолжить</string>
+    <string name="buttonBack">Вернуться</string>
+    <string name="buttonRestartTest">Повторить тестирование</string>
+    <string name="buttonBackToMainPage">Вернуться на главную страницу</string>
+
+    <string name="mainPage_textView1">Программный комплекс</string>
+    <string name="mainPage_textView2">Тестирование обучаемых</string>
+    <string name="mainPage_buttonInfo">Информация о приложении</string>
+
+    <string name="buttonTest1">Тест 1</string>
+    <string name="buttonTest2">Тест 2</string>
+
+    <string name="resultBad">Упс…</string>
+    <string name="resultGood">Хорошо</string>
+    <string name="resultPerfect">Идеально!</string>
+
+    <string name="questionNum1">Вопрос №1</string>
+    <string name="questionNum2">Вопрос №2</string>
+    <string name="questionNum3">Вопрос №3</string>
+
+
+    <string name="test1_testNum">Тест №1</string>
+    <string name="test1_testName">Общие вопросы по Java</string>
+
+</resources>
